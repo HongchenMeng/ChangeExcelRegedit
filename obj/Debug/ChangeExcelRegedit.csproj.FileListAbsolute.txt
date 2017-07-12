@@ -1,0 +1,6 @@
+D:\my\Code\ChangeExcelRegedit\bin\Debug\ChangeExcelRegedit.exe.config
+D:\my\Code\ChangeExcelRegedit\bin\Debug\ChangeExcelRegedit.exe
+D:\my\Code\ChangeExcelRegedit\bin\Debug\ChangeExcelRegedit.pdb
+D:\my\Code\ChangeExcelRegedit\obj\Debug\ChangeExcelRegedit.csprojResolveAssemblyReference.cache
+D:\my\Code\ChangeExcelRegedit\obj\Debug\ChangeExcelRegedit.exe
+D:\my\Code\ChangeExcelRegedit\obj\Debug\ChangeExcelRegedit.pdb
